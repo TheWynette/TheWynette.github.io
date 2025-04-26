@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(120, 239, 196) !important;
+  }
+  
+.magic-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 2rem;
+    flex-wrap: wrap;
+  }
+  
+.circle {
+    width: 1020px;
+    height: 120px;
+    border-radius: 50%;
+    background: linear-gradient(145deg, #ff2222, #660707);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1rem;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(91, 24, 24);
+  }
+  
+.circle:hover {
+    transform: scale(1.1);
+    background: #b6ff2d;
+    box-shadow: 4px 4px 15px rgba(0,0,0,0.2);
+  }
+  
