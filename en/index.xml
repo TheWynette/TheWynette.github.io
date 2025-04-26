@@ -47,7 +47,7 @@
       <link>https://thewynette.github.io/en/legal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://thewynette.github.io/en/legal/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Soft Robotic Gripper&lt;br&gt;&#xA;Designed and fabricated a soft robotic gripper using Ecoflex material with internal cavity structures. Combined pneumatic control and embedded sensors to enable object grasping and tactile feedback. Neural networks will be used to recognize deformation patterns caused by nearby objects.&lt;/p&gt;&#xA;&lt;p&gt;📍 Soft Robotics, Flexible Sensors, Neural Networks&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Optical Instrument Automation&lt;br&gt;&#xA;Developed a Python library (based on C commands) to control various brands of optical instruments. Achieved one-click experimental platform control, significantly reducing operation cost and human error.&lt;/p&gt;</description>
+      <description></description>
     </item>
   </channel>
 </rss>
