@@ -68,7 +68,7 @@
       <link>https://thewynette.github.io/legal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://thewynette.github.io/legal/</guid>
-      <description>&lt;p&gt;This file is a single page and is referenced by the button &lt;code&gt;Legal&lt;/code&gt; on the cover start page.&lt;/p&gt;&#xA;&lt;p&gt;It can contain more or additional information than the dedicated section on the homepage.&lt;/p&gt;</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;软体机械爪&lt;/p&gt;&#xA;&lt;p&gt;📍软体机器人、柔性传感器、神经网络&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;光学仪器控制自动化&lt;/p&gt;&#xA;&lt;p&gt;📍仪器控制、自动化、Python&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;固定翼航模数字识别系统&lt;/p&gt;&#xA;&lt;p&gt;📍YOLOv8、卷积神经网络&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;基于NE555的电机转动与测速装置&lt;/p&gt;&#xA;&lt;p&gt;📍pcb设计、电路焊接&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
