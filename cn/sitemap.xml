@@ -3,8 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://thewynette.github.io/album/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thewynette.github.io/en/album/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://thewynette.github.io/album/"
+                />
   </url><url>
     <loc>https://thewynette.github.io/drawing/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thewynette.github.io/en/drawing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://thewynette.github.io/drawing/"
+                />
   </url><url>
     <loc>https://thewynette.github.io/knitting/</loc>
     <xhtml:link
@@ -19,6 +39,16 @@
                 />
   </url><url>
     <loc>https://thewynette.github.io/cal/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thewynette.github.io/en/cal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://thewynette.github.io/cal/"
+                />
   </url><url>
     <loc>https://thewynette.github.io/writing/</loc>
     <xhtml:link

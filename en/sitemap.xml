@@ -38,6 +38,42 @@
                 href="https://thewynette.github.io/en/writing/"
                 />
   </url><url>
+    <loc>https://thewynette.github.io/en/album/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://thewynette.github.io/album/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thewynette.github.io/en/album/"
+                />
+  </url><url>
+    <loc>https://thewynette.github.io/en/drawing/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://thewynette.github.io/drawing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thewynette.github.io/en/drawing/"
+                />
+  </url><url>
+    <loc>https://thewynette.github.io/en/cal/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://thewynette.github.io/cal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://thewynette.github.io/en/cal/"
+                />
+  </url><url>
     <loc>https://thewynette.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
