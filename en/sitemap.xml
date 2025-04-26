@@ -2,102 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/en/knitting/</loc>
+    <loc>https://thewynette.github.io/en/knitting/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/knitting/"
+                href="https://thewynette.github.io/knitting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/knitting/"
+                href="https://thewynette.github.io/en/knitting/"
                 />
   </url><url>
-    <loc>https://example.com/en/music/</loc>
+    <loc>https://thewynette.github.io/en/music/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/music/"
+                href="https://thewynette.github.io/music/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/music/"
+                href="https://thewynette.github.io/en/music/"
                 />
   </url><url>
-    <loc>https://example.com/en/writing/</loc>
+    <loc>https://thewynette.github.io/en/writing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/writing/"
+                href="https://thewynette.github.io/writing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/writing/"
+                href="https://thewynette.github.io/en/writing/"
                 />
   </url><url>
-    <loc>https://example.com/en/</loc>
+    <loc>https://thewynette.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/"
+                href="https://thewynette.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/"
+                href="https://thewynette.github.io/en/"
                 />
   </url><url>
-    <loc>https://example.com/en/categories/</loc>
+    <loc>https://thewynette.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/categories/"
+                href="https://thewynette.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/categories/"
+                href="https://thewynette.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://example.com/en/license/</loc>
+    <loc>https://thewynette.github.io/en/license/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/license/"
+                href="https://thewynette.github.io/license/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/license/"
+                href="https://thewynette.github.io/en/license/"
                 />
   </url><url>
-    <loc>https://example.com/en/services/</loc>
+    <loc>https://thewynette.github.io/en/services/</loc>
   </url><url>
-    <loc>https://example.com/en/tags/</loc>
+    <loc>https://thewynette.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/tags/"
+                href="https://thewynette.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/"
+                href="https://thewynette.github.io/en/tags/"
                 />
   </url><url>
-    <loc>https://example.com/en/legal/</loc>
+    <loc>https://thewynette.github.io/en/legal/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://example.com/legal/"
+                href="https://thewynette.github.io/legal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/legal/"
+                href="https://thewynette.github.io/en/legal/"
                 />
   </url>
 </urlset>

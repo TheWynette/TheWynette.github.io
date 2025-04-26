@@ -8358,7 +8358,7 @@ template {
 
 :root {
     --cover-text-color: #382f2f;
-    --highlight: #ffe0c1;
+    --highlight: #ffe0c1 !important;
     --highlight-contrast: var(--cover-text-color);
     --highlight-inverse: var(--cover-text-color);
     --highlight-inverse-contrast: rgb(0, 0, 0);

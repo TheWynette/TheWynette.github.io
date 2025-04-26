@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frances &amp; The world</title>
-    <link>https://example.com/en/</link>
+    <link>https://thewynette.github.io/en/</link>
     <description>Recent content on Frances &amp; The world</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://example.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thewynette.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Knitting</title>
-      <link>https://example.com/en/knitting/</link>
+      <link>https://thewynette.github.io/en/knitting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/knitting/</guid>
-      <description>&lt;p&gt;This is a little place I created to collect my ideas and stories.&lt;/p&gt;&#xA;&lt;p&gt;We can never have enough experience through our life, but we can be brave enough to go for it.&#xA;You are always appriciated to share your stories with me, please put the letters here-&amp;gt;&lt;a href=&#34;https://example.com/en/services/&#34;&gt;STORY BOX&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Home is now behind, the world ahead.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Hope you enjoy yourself.&lt;/p&gt;</description>
+      <guid>https://thewynette.github.io/en/knitting/</guid>
+      <description>&lt;p&gt;This is a little place I created to collect my ideas and stories.&lt;/p&gt;&#xA;&lt;p&gt;We can never have enough experience through our life, but we can be brave enough to go for it.&#xA;You are always appriciated to share your stories with me, please put the letters here-&amp;gt;&lt;a href=&#34;https://thewynette.github.io/en/services/&#34;&gt;STORY BOX&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Home is now behind, the world ahead.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Hope you enjoy yourself.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Music</title>
-      <link>https://example.com/en/music/</link>
+      <link>https://thewynette.github.io/en/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/music/</guid>
-      <description>&lt;p&gt;This is a little place I created to collect my ideas and stories.&lt;/p&gt;&#xA;&lt;p&gt;We can never have enough experience through our life, but we can be brave enough to go for it.&#xA;You are always appriciated to share your stories with me, please put the letters here-&amp;gt;&lt;a href=&#34;https://example.com/en/services/&#34;&gt;STORY BOX&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Home is now behind, the world ahead.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Hope you enjoy yourself.&lt;/p&gt;</description>
+      <guid>https://thewynette.github.io/en/music/</guid>
+      <description>&lt;p&gt;This is a little place I created to collect my ideas and stories.&lt;/p&gt;&#xA;&lt;p&gt;We can never have enough experience through our life, but we can be brave enough to go for it.&#xA;You are always appriciated to share your stories with me, please put the letters here-&amp;gt;&lt;a href=&#34;https://thewynette.github.io/en/services/&#34;&gt;STORY BOX&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Home is now behind, the world ahead.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Hope you enjoy yourself.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Writing</title>
-      <link>https://example.com/en/writing/</link>
+      <link>https://thewynette.github.io/en/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/writing/</guid>
-      <description>&lt;p&gt;This is a little place I created to collect my ideas and stories.&lt;/p&gt;&#xA;&lt;p&gt;We can never have enough experience through our life, but we can be brave enough to go for it.&#xA;You are always appriciated to share your stories with me, please put the letters here-&amp;gt;&lt;a href=&#34;https://example.com/en/services/&#34;&gt;STORY BOX&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Home is now behind, the world ahead.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Hope you enjoy yourself.&lt;/p&gt;</description>
+      <guid>https://thewynette.github.io/en/writing/</guid>
+      <description>&lt;p&gt;This is a little place I created to collect my ideas and stories.&lt;/p&gt;&#xA;&lt;p&gt;We can never have enough experience through our life, but we can be brave enough to go for it.&#xA;You are always appriciated to share your stories with me, please put the letters here-&amp;gt;&lt;a href=&#34;https://thewynette.github.io/en/services/&#34;&gt;STORY BOX&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Home is now behind, the world ahead.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Hope you enjoy yourself.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hugo Scroll License</title>
-      <link>https://example.com/en/license/</link>
+      <link>https://thewynette.github.io/en/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/license/</guid>
+      <guid>https://thewynette.github.io/en/license/</guid>
       <description>&lt;p&gt;The MIT License (MIT)&lt;/p&gt;&#xA;&lt;p&gt;Copyright (c) 2020 Jan Raasch&lt;/p&gt;&#xA;&lt;p&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of&#xA;this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in&#xA;the Software without restriction, including without limitation the rights to&#xA;use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of&#xA;the Software, and to permit persons to whom the Software is furnished to do so,&#xA;subject to the following conditions:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Services</title>
-      <link>https://example.com/en/services/</link>
+      <link>https://thewynette.github.io/en/services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/services/</guid>
+      <guid>https://thewynette.github.io/en/services/</guid>
       <description>&lt;p&gt;This is a page about the services, which I offer.&lt;/p&gt;&#xA;&lt;p&gt;It carries a lot more detail than what I put on the homepage - I swear!&lt;/p&gt;&#xA;&lt;p&gt;You want to know what I can do for you?&lt;/p&gt;&#xA;&lt;p&gt;Well, let me tell ya!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;nutrition-coaching&#34;&gt;Nutrition Coaching&lt;/h2&gt;&#xA;&lt;p&gt;This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The single page referenced to by the Legal button on the cover page</title>
-      <link>https://example.com/en/legal/</link>
+      <link>https://thewynette.github.io/en/legal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/legal/</guid>
+      <guid>https://thewynette.github.io/en/legal/</guid>
       <description>&lt;p&gt;This file is a single page and is referenced by the button &lt;code&gt;Legal&lt;/code&gt; on the cover start page.&lt;/p&gt;&#xA;&lt;p&gt;It can contain more or additional information than the dedicated section on the homepage.&lt;/p&gt;</description>
     </item>
   </channel>

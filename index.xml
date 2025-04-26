@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>France的blog</title>
-    <link>https://example.com/</link>
+    <link>https://thewynette.github.io/</link>
     <description>Recent content on France的blog</description>
     <generator>Hugo</generator>
     <language>cn</language>
-    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thewynette.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>影像</title>
-      <link>https://example.com/album/</link>
+      <link>https://thewynette.github.io/album/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/album/</guid>
+      <guid>https://thewynette.github.io/album/</guid>
       <description>&lt;p&gt;凭这个穿越时间&lt;/p&gt;</description>
     </item>
     <item>
       <title>绘画</title>
-      <link>https://example.com/drawing/</link>
+      <link>https://thewynette.github.io/drawing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/drawing/</guid>
+      <guid>https://thewynette.github.io/drawing/</guid>
       <description>&lt;p&gt;画不出色图该如何是好？&lt;/p&gt;</description>
     </item>
     <item>
       <title>编织</title>
-      <link>https://example.com/knitting/</link>
+      <link>https://thewynette.github.io/knitting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/knitting/</guid>
+      <guid>https://thewynette.github.io/knitting/</guid>
       <description>&lt;p&gt;本人学习织围巾中。&lt;/p&gt;</description>
     </item>
     <item>
       <title>花体字</title>
-      <link>https://example.com/cal/</link>
+      <link>https://thewynette.github.io/cal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/cal/</guid>
+      <guid>https://thewynette.github.io/cal/</guid>
       <description>&lt;p&gt;对对我正在编写教程&lt;/p&gt;</description>
     </item>
     <item>
       <title>随记</title>
-      <link>https://example.com/writing/</link>
+      <link>https://thewynette.github.io/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/writing/</guid>
+      <guid>https://thewynette.github.io/writing/</guid>
       <description>&lt;p&gt;想看黄色同人文？&lt;/p&gt;</description>
     </item>
     <item>
       <title>音乐</title>
-      <link>https://example.com/music/</link>
+      <link>https://thewynette.github.io/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/music/</guid>
+      <guid>https://thewynette.github.io/music/</guid>
       <description>&lt;p&gt;你愿意和我合奏City of Star吗？&lt;/p&gt;</description>
     </item>
     <item>
       <title>项目</title>
-      <link>https://example.com/projectd/</link>
+      <link>https://thewynette.github.io/projectd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projectd/</guid>
+      <guid>https://thewynette.github.io/projectd/</guid>
       <description>&lt;p&gt;我还没有项目真抱歉&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hugo Scroll License</title>
-      <link>https://example.com/license/</link>
+      <link>https://thewynette.github.io/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/license/</guid>
+      <guid>https://thewynette.github.io/license/</guid>
       <description>&lt;p&gt;The MIT License (MIT)&lt;/p&gt;&#xA;&lt;p&gt;Copyright (c) 2020 Jan Raasch&lt;/p&gt;&#xA;&lt;p&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of&#xA;this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in&#xA;the Software without restriction, including without limitation the rights to&#xA;use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of&#xA;the Software, and to permit persons to whom the Software is furnished to do so,&#xA;subject to the following conditions:&lt;/p&gt;</description>
     </item>
     <item>
       <title>The single page referenced to by the Legal button on the cover page</title>
-      <link>https://example.com/legal/</link>
+      <link>https://thewynette.github.io/legal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/legal/</guid>
+      <guid>https://thewynette.github.io/legal/</guid>
       <description>&lt;p&gt;This file is a single page and is referenced by the button &lt;code&gt;Legal&lt;/code&gt; on the cover start page.&lt;/p&gt;&#xA;&lt;p&gt;It can contain more or additional information than the dedicated section on the homepage.&lt;/p&gt;</description>
     </item>
   </channel>
